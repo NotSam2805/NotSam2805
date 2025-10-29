@@ -2,7 +2,7 @@
 - 👀 I’m interested in intresting stuff
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me? idk you figure it out
+- 📫 How to reach me? email sam.duncliffe@outlook.com
 
 <!---
 NotSam2805/NotSam2805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
