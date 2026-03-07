@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NotSam2805
 - 👀 I’m interested in intresting stuff
 - 🌱 I’m currently a student at the University of Liverpool (BSc Comp Sci)
-- 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me? email sam.duncliffe@outlook.com
 
 - Currently looking for an Industry Placement
