@@ -8,6 +8,7 @@
 - Personal Projects I am working on:
   + 2D Physics Simulation
   + Neural Networks (Python)
+  + Text Adventure Game
 
 - Working on Blackjack system for Comp 208
 
