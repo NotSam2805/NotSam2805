@@ -6,10 +6,10 @@
 - Currently looking for an Industry Placement
 
 - Personal Projects I am working on:
-  + 2D Physics Simulation
-  + Neural Networks (Python)
+  + [2D Physics Simulation](https://github.com/NotSam2805/2D-Physics-Simulation)
+  + [Neural Networks](https://github.com/NotSam2805/NeuralNetworks) (Python)
 
-- Working on Blackjack system for Comp 208
+- Working on [Blackjack system for Comp 208](https://github.com/NotSam2805/208_Group_Project_Demo)
 <!---
 NotSam2805/NotSam2805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
