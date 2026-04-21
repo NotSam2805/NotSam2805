@@ -8,6 +8,7 @@
 - Personal Projects I am working on:
   + [2D Physics Simulation](https://github.com/NotSam2805/2D-Physics-Simulation) (C#)
   + [Neural Networks](https://github.com/NotSam2805/NeuralNetworks) (Python)
+  + [F1 app](https://github.com/NotSam2805/F1-app) (Python)
 
 - Working on [Blackjack system for Comp 208](https://github.com/NotSam2805/208_Group_Project_Demo)
 <!---
